@@ -9,5 +9,7 @@ This repository contains the Lab codes of the course Algorithms (CSo-221N) at II
 - [Lab 1](./Experiment1):Implementation of Iterative and Recursive Quick Sort
 - [Lab 2](./Experiment2):Implementation of Binary Multiplication using Naive Method & Karatsuba algorithm (Divide and Conquer).
 - [Lab 3](./Experiment3):Implementation of Iterative and Recursive Merge Sort
+- [Lab 6](./Experiment6):Finding Second Best Minimum Spanning Tree ( Krushkal Algorithm )
+- [Lab 7](./Experiment7): Fractional Knapscak & Activity Selection
 
 ## Todo:
