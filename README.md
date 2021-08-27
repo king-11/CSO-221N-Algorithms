@@ -11,5 +11,7 @@ This repository contains the Lab codes of the course Algorithms (CSo-221N) at II
 - [Lab 3](./Experiment3):Implementation of Iterative and Recursive Merge Sort
 - [Lab 6](./Experiment6):Finding Second Best Minimum Spanning Tree ( Krushkal Algorithm )
 - [Lab 7](./Experiment7): Fractional Knapscak & Activity Selection
+- [Lab 10](./Experiment10): Sum of Subsets (Backtracking) & Travelling Salesman (Branch and Bound)
+- [Lab 11](./Experiment11): Huffman Coding Compression & Decompression (Greedy)
 
 ## Todo:
