@@ -19,3 +19,8 @@ This repository contains the Lab codes of the course Algorithms (CSo-221N) at II
 - [Lab 11](./Experiment11): Huffman Coding Compression & Decompression (Greedy)
 
 ## Todo:
+
+- Slow Heap Lab Assignment 4
+- Convex Hull Divide adn Conquer
+- Chain Matrix Divide and Conquer
+- Graph Distance A*
